@@ -1,3 +1,5 @@
+# Some type casting example :
+
 ab=int(input())
 bu=int(input())
 cd=(ab-bu)
